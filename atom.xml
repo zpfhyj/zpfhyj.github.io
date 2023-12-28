@@ -6,7 +6,7 @@
   <link href="http://zpfhyj.github.io/atom.xml" rel="self"/>
   
   <link href="http://zpfhyj.github.io/"/>
-  <updated>2023-12-27T07:15:14.809Z</updated>
+  <updated>2023-12-28T02:54:46.309Z</updated>
   <id>http://zpfhyj.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://zpfhyj.github.io/2023/12/26/zpf/"/>
     <id>http://zpfhyj.github.io/2023/12/26/zpf/</id>
     <published>2023-12-26T10:15:14.000Z</published>
-    <updated>2023-12-27T07:15:14.809Z</updated>
+    <updated>2023-12-28T02:54:46.309Z</updated>
     
     <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>使用hexo+github的免费方案，制作了一个博客站点。但是暂时没想好能写点啥，或者是平时总结，或者是工作累积的知识，还有可能是技术分享，亦或者是一些图片的分享，等等等……</p><p>在github的公共仓库中还有个ansible安装k8s的剧本，如果需要可以联系获取。</p><p><img src="/2023/12/26/zpf/1.jpg" alt="那年冰上的夕阳" title="夕阳"></p>]]></content>
     
@@ -33,6 +33,14 @@
     
     
     
+    <category term="zpf" scheme="http://zpfhyj.github.io/categories/zpf/"/>
+    
+    <category term="记录" scheme="http://zpfhyj.github.io/categories/zpf/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="zpf" scheme="http://zpfhyj.github.io/tags/zpf/"/>
+    
+    <category term="随笔" scheme="http://zpfhyj.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
